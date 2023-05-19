@@ -1,0 +1,21 @@
+body{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: rgb(74, 96, 219);
+color: aliceblue;
+} 
+
+hr{ 
+    height: 20px;
+    
+    background-color: rgb(9, 0, 141);
+}
+
+img{ 
+
+    height: 500px;
+    width:500px ;
+}
+#hrr{ 
+    background-color: black;
+
+}
